@@ -1,1 +1,1 @@
-# spelling_check_correction
+# spelling_detection
